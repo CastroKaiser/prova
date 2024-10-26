@@ -16,7 +16,6 @@ public class Questao6 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         int num = 1, qtdValores = 0, soma = 0;
-        double media;
         
         while(num != 0){
             System.out.print("Digite qualquer numero ou 0 para sair:");
